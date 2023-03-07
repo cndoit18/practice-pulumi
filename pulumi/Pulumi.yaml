@@ -1,0 +1,4 @@
+name: practice-pulumi
+runtime:
+    name: go
+description: A minimal Go Pulumi program
